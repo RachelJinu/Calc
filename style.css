@@ -68,7 +68,10 @@
     height: 15px;
     width: 15px;
     margin: 2px;
-    padding: 5px;
+    padding: 1px;
     font: 8px sans-serif;
+}
+.calc{
+    height: 300px;
 }
 }
